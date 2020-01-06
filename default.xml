@@ -6,7 +6,7 @@
            review="https://android-review.googlesource.com/" />
   <remote  name="github"
            fetch="https://github.com/osunde/"
-           revision="refs/heads/android-10.0.0_r15" />
+           revision="refs/heads/android10-qpr1-mainline-release" />
   <default revision="refs/tags/android-10.0.0_r15"
            remote="aosp"
            sync-j="4" />
